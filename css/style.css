@@ -86,6 +86,8 @@ nav {
   justify-content: space-between;
 }
 
+/* CENTERED CONTENT CONTAINER OF 1100px WIDE */
+
 .center {
   max-width: 1100px;
   margin: 0 auto;
@@ -164,6 +166,8 @@ nav {
   display: flex;
 }
 
+/* CENTERED CONTAINER FOR INFO SECTION */
+
 .center-info {
   max-width: 900px;
   margin: 0 auto;
@@ -193,6 +197,8 @@ nav {
   padding: 100px 0;
   background: #e5e7eb;
 }
+
+/* CENTERED CONTAINER FOR TESTIMONIAL SECTION */
 
 .center-testimonial {
   max-width: 800px;
